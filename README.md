@@ -13,8 +13,8 @@ Test images are stored in the test images folder.
 
 1. PA-1 and PA-2 are  614×611 multispectral images. This image pair can be used to test the PSO-SIFT algorithm.
 2. PB-1 and PB-2 are  617×593 multispectral images. This image pair can be used to test the PSO-SIFT algorithm.
-3. perspective_graf_1.ppm and perspective_graf_2.ppm are natural images with different shooting angles. This image pair can be used to test the SIFT algorithm. It should be pointed out that, perspective transformation model is needed for image pairs with different shooting angles.
-4. perspective_school_1.jpg and perspective_school_2.jpg are natural images with different shooting angles. This image pair can be used to test the SIFT algorithm.
+3. Perspective_graf_1.ppm and perspective_graf_2.ppm are natural images with different shooting angles. This image pair can be used to test the SIFT algorithm. It should be pointed out that, perspective transformation model is needed for image pairs with different shooting angles.
+4. Perspective_school_1.jpg and perspective_school_2.jpg are natural images with different shooting angles. This image pair can be used to test the SIFT algorithm.
 5. SAR-SIFT_1.JPG and SAR-SIFT_2.JPG are SAR images. This image pair can be used to test the SAR-SIFT algorithm.
 
 
