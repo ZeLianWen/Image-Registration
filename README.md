@@ -1,6 +1,8 @@
 # Image-Registration
 Image registration algorithm. Includes SIFT, SAR-SIFT,PSO-SIFT.
 
+The authors are with the Key Laboratory of Intelligent Perception and Image Understanding of Ministry of Education, International Research Center for Intelligent Perception and Computation, Xidian University, Xi’an 710071,China.
+
 Algorithm description：
 
 1. SIFT(Scale-invariant feature transform). Reference article: David G. Lowe, "Distinctive Image Features from Scale-Invariant Keypoints"[2004].
