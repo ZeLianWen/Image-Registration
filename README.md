@@ -1,6 +1,9 @@
 
 I'm terribly sorry, there are errors of the description in Section-III(B) of the paper “Remote Sensing Image Registration with Modified SIFT and Enhanced Feature Matching”.  We have uploaded the errors in document named 《 revised of the PSO-SIFT》.I'm sorry to have affected your reading.
 
+我们已经出版的文章《Remote Sensing Image Registration with Modified SIFT and Enhanced Feature Matching》在第三部分（B）存在一些描述性错误，可能会给你的阅读带来麻烦，因此我们上传了出错的地方，并给出了正确的描述方法，文档名字为“revised of the PSO-SIFT”。
+
+
 # Image-Registration
 Image registration algorithm. Includes SIFT, SAR-SIFT,PSO-SIFT.
 
