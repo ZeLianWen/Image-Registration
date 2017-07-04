@@ -18,6 +18,11 @@ Algorithm description：
 
 Ma W, Wen Z, Wu Y, et al. Remote Sensing Image Registration With Modified SIFT and Enhanced Feature Matching[J]. IEEE Geoscience and Remote Sensing Letters, 2017, 14(1): 3-7.
 
+SAR-SIFT-FSC-modified-opencv249是基于c++和opencv-2-4-9实现的SAR-SIFT算法，对于opencv比较熟悉的用户可以直接参考该代码，如果不熟悉opencv，可以参考matlab版本。
+
+SIFT-opencv249是基于c++和opencv-2-4-9实现的原始SIFT算法，对于opencv比较熟悉的用户可以直接参考该代码，如果不熟悉opencv，可以参考matlab版本。
+
+对于上面的opencv版本，我们仅仅提供了源文件，并没有提供编译脚本，对于windows下的用户只需要在IDE下加入配置开发环境即可；对于linux用户，可能需要自己编写编译脚本，我们推荐使用cmake。需要说明的是，SIFT-opencv249参考了opencv中sift实现代码，但是我们修改了其中的大部分代码，如高斯尺度空间生产、特征点匹配、特征点删除、计算变换矩阵、图像融合等。
 
 Test data set description：
 
