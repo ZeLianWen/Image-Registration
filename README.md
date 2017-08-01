@@ -5,7 +5,7 @@ I'm terribly sorry, there are errors of the description in Section-III(B) of the
 
 
 # Image-Registration
-Image registration algorithm. Includes SIFT, SAR-SIFT,PSO-SIFT.If you are satisfied with our code,please click the star button.
+Image registration algorithm. Includes SIFT, SAR-SIFT,PSO-SIFT.If you are satisfied with our code,please click the star button(如果我们的代码给你的工作或者学习带来了帮助，希望能够收到你的star).
 
 Author information：
 Key Laboratory of Intelligent Perception and Image Understanding of Ministry of Education, International Research Center for Intelligent Perception and Computation, Joint International Research　Laboratory of Intelligent Perception and Computation, Xidian University, Xi’an, Shaanxi Province, 710071, China(email:zelianwen@foxmail.com).
