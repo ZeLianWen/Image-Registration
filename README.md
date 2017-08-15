@@ -24,6 +24,8 @@ SIFT-opencv249是基于c++和opencv-2-4-9实现的原始SIFT算法，对于openc
 
 对于上面的opencv版本，我们仅仅提供了源文件，并没有提供编译脚本，对于windows下的用户只需要在IDE下加入配置开发环境即可；对于linux用户，可能需要自己编写编译脚本，我们推荐使用cmake。需要说明的是，SIFT-opencv249参考了opencv中sift实现代码，但是我们修改了其中的大部分代码，如高斯尺度空间生产、特征点匹配、特征点删除、计算变换矩阵、图像融合等。
 
+为了方便运行测试，我们上传了sift-opencv249可执行文件sift_static.exe,其中运行参数在文件sift_static_exe_readme.txt中可以找到。
+
 Test data set description：
 
 Test images are stored in the test images folder.
