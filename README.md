@@ -15,8 +15,8 @@ Algorithm description：
 1. SIFT(Scale-invariant feature transform). Reference article: David G. Lowe, "Distinctive Image Features from Scale-Invariant Keypoints"[2004].
 2. SAR-SIFT. Reference article: Flora Dellinger, Julie Delon, Yann Gousseau, Julien Michel, and Florence Tupin, "SAR-SIFT: A SIFT-Like Algorithm for SAR Images"[2015].
 3. PSO-SIFT. Reference article: "Remote Sensing Image Registration with Modified SIFT and Enhanced Feature Matching"[2016].If you do use it, please cite:
-
 Ma W, Wen Z, Wu Y, et al. Remote Sensing Image Registration With Modified SIFT and Enhanced Feature Matching[J]. IEEE Geoscience and Remote Sensing Letters, 2017, 14(1): 3-7.
+4. 基于点特征的遥感图像配准方法研究，闻泽联。
 
 SAR-SIFT-FSC-modified-opencv249是基于c++和opencv-2-4-9实现的SAR-SIFT算法，对于opencv比较熟悉的用户可以直接参考该代码，如果不熟悉opencv，可以参考matlab版本。
 
