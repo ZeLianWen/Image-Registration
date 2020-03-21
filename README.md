@@ -1,7 +1,7 @@
 
 I'm terribly sorry, there are errors of the description in Section-III(B) of the paper “Remote Sensing Image Registration with Modified SIFT and Enhanced Feature Matching”.  We have uploaded the errors in document named 《 revised of the PSO-SIFT》.I'm sorry to have affected your reading.
 
-我们已经出版的文章《Remote Sensing Image Registration with Modified SIFT and Enhanced Feature Matching》在第三部分（B）存在一些描述性错误，可能会给你的阅读带来麻烦，因此我们上传了出错的地方，并给出了正确的描述方法，文档名字为“revised of the PSO-SIFT”。
+我们已经出版的文章《Remote Sensing Image Registration with Modified SIFT and Enhanced Feature Matching》在第三部分（B）存在一些描述性错误，可能会给你的阅读带来麻烦，因此我们上传了出错的地方，并给出了正确的描述方法，文档名字为“revised of the PSO-SIFT”。CSDN 博主对已经翻译了该论文：https://blog.csdn.net/qq_21685903/article/details/103623053?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task
 
 
 # Image-Registration
@@ -38,4 +38,7 @@ Test images are stored in the test images folder.
 
 
 We regret to say that part of the test of remote sensing image do not belong to the public resources.
+
+
+
 
